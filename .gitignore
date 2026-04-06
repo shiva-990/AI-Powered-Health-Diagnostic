@@ -10,6 +10,6 @@ venv/
 *.h5
 *.pt
 *.pth
-
+*.keras
 # System files
 .DS_Store
