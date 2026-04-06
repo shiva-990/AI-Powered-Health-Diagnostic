@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# ML models (large files)
+*.h5
+*.pt
+*.pth
+*.keras
+# System files
+.DS_Store
